@@ -3,6 +3,10 @@
 
     Add a column to an existing wps r python dataframe for loop
 
+    github                                                                                              
+    http://tinyurl.com/yj3dy54s                                                                         
+    https://github.com/rogerjdeangelis/utl-add-a-column-to-an-existing-wps-r-python-dataframe-for-loop  
+
     stackoverflow R
     http://tinyurl.com/mryr7x9v
     https://stackoverflow.com/questions/77772772/dplyr-mutate-with-data-from-last-column
